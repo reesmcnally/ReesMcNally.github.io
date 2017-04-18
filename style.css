@@ -117,7 +117,7 @@ body {
 .footer a{color:#000;border:0;}
 .footer a:hover{opacity:.5;border:0;}
 
-  .mugshot{width:115px;height:31px;background:url(France_Headshot.jpg) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
+  .mugshot{width:250px;height:250px;background:url(France_Headshot.jpg) no-repeat center center;background-size:250px 250px;padding:2rem 0;margin:0 auto;opacity:1.0;}
   .nyu{width:115px;height:31px;background:url(images/logos/nyu2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
   .squarespace{width:115px;height:31px;background:url(images/logos/squarespace2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.9;}
   .fit{width:115px;height:31px;background:url(images/logos/fit2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
