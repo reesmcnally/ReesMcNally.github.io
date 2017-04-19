@@ -129,6 +129,7 @@ body {
 
 
 @media (min-width: 550px) {
+  .mugshot{padding:4.7rem 1.8rem;}
   .nyu{padding:4.7rem 1.8rem;}
   .squarespace{padding:4.7rem 1.8rem;}
   .fit{padding:4.7rem 1.8rem;}
