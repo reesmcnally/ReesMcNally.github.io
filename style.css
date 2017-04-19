@@ -195,8 +195,8 @@ h2, h4, h5, h6 {
 }
 
 h7 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   font-weight: 500; 
   font-family: "futura-pt", Helvetica, Arial, sans-serif;
   color:#000;
@@ -219,7 +219,7 @@ h7 { font-size: 3rem; line-height: 1.1;}
   h4 { font-size: 3.0rem; }
   h5 { font-size: 2.4rem; }
   h6 { font-size: 1.5rem; }
-  h7 { font-size: 3.6rem; line-height: 1.1 ;}
+  h7 { font-size: 3.6rem; line-height: 1.2;margin-top:3rem;}
 }
 
 p {
