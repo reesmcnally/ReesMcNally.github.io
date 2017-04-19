@@ -106,9 +106,8 @@ body {
 .subhead{font-size:1.4rem;font-weight:500;line-height:1.3;margin-bottom:5rem;margin-left:0;}
 
 .logocontainer{background-color:#f4e3e1;margin-top:4rem;padding:2rem 0;}
-
-.twitter{background:url(images/twitter2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:20px;float:left;}
-.linkedin{background:url(images/linkedin2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
+.google{background:url(gscholar.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:20px;float:left;}
+.linkedin{background:url(inlogo.svg) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
 
 .social {border:0;}
 .social:hover {opacity:.5;border:0;}
