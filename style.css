@@ -115,8 +115,9 @@ body {
 .footer {background-image:url(images/logo-small.png);background-repeat: no-repeat;background-position:right top; height:33px;margin-bottom:3rem;padding-top:5px;font-size:14px;color:#000;}
 .footer a{color:#000;border:0;}
 .footer a:hover{opacity:.5;border:0;}
-
-  .lasercool_schem{width:250px;height:250px;background:url(BaH_Laser_Cooling.png) no-repeat center center;background-size:250px 250px;padding:2rem 0;margin:0 auto;opacity:1.0;}
+  .ablation_schem{width:344px;height:167px;background:url(ablation_schem.png) no-repeat center center;background-size:344px 167px;padding:2rem 0;margin:0 auto;opacity:1.0;}
+  .lasercool_schem{width:344px;height:167px;background:url(BaH_Laser_Cooling.png) no-repeat center center;background-size:344px 167px;padding:2rem 0;margin:0 auto;opacity:1.0;}
+  .buffercell_schem{width:344px;height:167px;background:url(buffercell_schem.png) no-repeat center center;background-size:344px 167px;padding:2rem 0;margin:0 auto;opacity:1.0;}
   .mugshot{width:250px;height:250px;background:url(France_Headshot.jpg) no-repeat center center;background-size:250px 250px;padding:2rem 0;margin:0 auto;opacity:1.0;}
   .nyu{width:115px;height:31px;background:url(images/logos/nyu2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.8;}
   .squarespace{width:115px;height:31px;background:url(images/logos/squarespace2x.png) no-repeat center center;background-size:115px 31px;padding:2rem 0;margin:0 auto;opacity:.9;}
