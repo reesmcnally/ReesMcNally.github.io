@@ -117,8 +117,8 @@ body {
 .footer a:hover{opacity:.5;border:0;}
 
   .SRQ_Buckets{width:400px;height:225px;background:url(SRQ_Buckets.jpg) no-repeat center center;background-size:400px 225px;padding:2rem 0;margin:0 auto;opacity:1.0;}
-  .SRQ_vac{width:400px;height:354px;background:url(optical_table.jpg) no-repeat center center;background-size:400px 354px;padding:2rem 0;margin:0 auto;opacity:1.0;}
-  .optical_table{width:400px;height:300px;background:url(SR_Mot.jpg) no-repeat center center;background-size:400px 300px;padding:2rem 0;margin:0 auto;opacity:1.0;} 
+  .SRQ_vac{width:400px;height:354px;background:url(SRQ_vac.jpg) no-repeat center center;background-size:400px 354px;padding:2rem 0;margin:0 auto;opacity:1.0;}
+  .optical_table{width:400px;height:300px;background:url(optical_table.jpg) no-repeat center center;background-size:400px 300px;padding:2rem 0;margin:0 auto;opacity:1.0;} 
 
   .ablation_schem{width:344px;height:167px;background:url(ablation_schem.png) no-repeat center center;background-size:344px 167px;padding:2rem 0;margin:0 auto;opacity:1.0;}
   .lasercool_schem{width:344px;height:167px;background:url(BaH_Laser_Cooling.png) no-repeat center center;background-size:344px 167px;padding:2rem 0;margin:0 auto;opacity:1.0;}
