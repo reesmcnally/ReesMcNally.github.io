@@ -116,6 +116,9 @@ body {
 .footer a{color:#000;border:0;}
 .footer a:hover{opacity:.5;border:0;}
 
+  .DANDE_logo{width:180xp;height:180px;background:url(DANDE_logo.jpg) no-repeat center center;background-size:180px 180px;padding:2rem 0;margin:0 auto;opacity:1.0;}
+  .DANDE_Flag{width:400px;height:225px;background:url(DANDE_Flag.jpg) no-repeat center center;background-size:400px 553px;padding:2rem 0;margin:0 auto;opacity:1.0;}
+
   .SRQ_Buckets{width:400px;height:225px;background:url(SRQ_Buckets.jpg) no-repeat center center;background-size:400px 225px;padding:2rem 0;margin:0 auto;opacity:1.0;}
   .SRQ_vac{width:400px;height:354px;background:url(SRQ_vac.jpg) no-repeat center center;background-size:400px 354px;padding:2rem 0;margin:0 auto;opacity:1.0;}
   .optical_table{width:400px;height:300px;background:url(optical_table.jpg) no-repeat center center;background-size:400px 300px;padding:2rem 0;margin:0 auto;opacity:1.0;} 
